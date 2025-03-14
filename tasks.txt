@@ -1,1 +1,4 @@
 # To-Do List
+    Complete git lesson
+    Review HTML basics
+    Start JavaScript exercises
